@@ -20,3 +20,8 @@ Tạo ra 1 brand mới: git checkout -b branch-name
 Chuyển branch: git branch branch-name
 
 Cập nhật code từ remote về local: git pull
+
+Cách để ko bị conflict
+B1: Checkout qua master và pull master mới nhất từ server về
+B2: Checkout qua nhánh và merge vs master
+B3: Sửa nhánh và push lên trên git để merge
