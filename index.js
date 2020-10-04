@@ -1,1 +1,1 @@
-console.log("GITtt");
+console.log("GIT");
