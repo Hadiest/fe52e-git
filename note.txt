@@ -7,3 +7,4 @@ Kiểm tra trang thái của source code: git status
 +File màu xanh đã thay đổi và được save
 
 Save những file đã thay đổi (working copy => staging area): git add file-name hoặc.(tất cả các file)
+qeqwqw
